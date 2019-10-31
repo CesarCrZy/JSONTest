@@ -1,7 +1,34 @@
 {
 
   "Productos": [
-    
+    {
+      "idProducto": 1,
+      "Nombre": "Tracy Vick",
+      "Tipo": "Consumible",
+      "PVenta": 14,
+      "PCoste": 9,
+      "Codigo": "Love",
+      "Proveedor": "franklin@carter.pk",
+      "Stock": 3,
+      "Estatus": "Activo",
+      "FCreacion": "2019-10-03",
+      "FModificacion": "2019-10-03",
+      "User": "Cesar"
+    },
+    {
+      "idProducto": 2,
+      "Nombre": "Natalie Stuart",
+      "Tipo": "Consumible",
+      "PVenta": 13,
+      "PCoste": 8,
+      "Codigo": "Atkins",
+      "Proveedor": "kara@alston.ml",
+      "Stock": 5,
+      "Estatus": "Activo",
+      "FCreacion": "2019-10-03",
+      "FModificacion": "2019-10-03",
+      "User": "Cesar"
+    }
   ],
   "Reglas": [
     {
