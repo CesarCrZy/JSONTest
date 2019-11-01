@@ -3,12 +3,12 @@
   "Productos": [
     {
       "idProducto": 1,
-      "Nombre": "Tracy Vick",
+      "Nombre": "Manzana",
       "Tipo": "Producto",
       "PVenta": 14,
       "PCoste": 9,
-      "Codigo": "Love",
-      "Proveedor": "franklin@carter.pk",
+      "Codigo": "Mn",
+      "Proveedor": "Granja",
       "Stock": 3,
       "Estatus": "Activo",
       "FCreacion": "2019-10-03",
@@ -17,12 +17,12 @@
     },
     {
       "idProducto": 2,
-      "Nombre": "Natalie Stuart",
+      "Nombre": "Victoria",
       "Tipo": "Producto",
       "PVenta": 13,
       "PCoste": 8,
-      "Codigo": "Atkins",
-      "Proveedor": "kara@alston.ml",
+      "Codigo": "Vic",
+      "Proveedor": "Modelo",
       "Stock": 5,
       "Estatus": "Activo",
       "FCreacion": "2019-10-03",
@@ -33,7 +33,7 @@
   "Reglas": [
     {
       "idRegla": 1,
-      "Nombre": "Kevin Hewitt",
+      "Nombre": "Manzana",
       "idProducto": 1,
       "CantidadMin": 4,
       "CantidadMax": 20,
@@ -43,7 +43,7 @@
     },
     {
       "idRegla": 2,
-      "Nombre": "Jennifer Singleton",
+      "Nombre": "Victoria",
       "idProducto": 2,
       "CantidadMin": 5,
       "CantidadMax": 15,
