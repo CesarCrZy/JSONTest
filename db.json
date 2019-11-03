@@ -33,7 +33,7 @@
   "Reglas": [
     {
       "idRegla": 1,
-      "Nombre": "RManzana",
+      "Nombre": "Manzana",
       "idProducto": 1,
       "CantidadMin": 4,
       "CantidadMax": 20,
@@ -43,7 +43,7 @@
     },
     {
       "idRegla": 2,
-      "Nombre": "RVictoria",
+      "Nombre": "Victoria",
       "idProducto": 2,
       "CantidadMin": 5,
       "CantidadMax": 15,
