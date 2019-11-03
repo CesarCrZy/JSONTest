@@ -34,7 +34,7 @@
     {
       "idRegla": 1,
       "Nombre": "RManzana",
-      "NProducto": "Manzana",
+      "idProducto": 1,
       "CantidadMin": 4,
       "CantidadMax": 20,
       "FCreacion": "2019-10-03",
@@ -44,7 +44,7 @@
     {
       "idRegla": 2,
       "Nombre": "RVictoria",
-      "NProducto": "Victoria",
+      "idProducto": 2,
       "CantidadMin": 5,
       "CantidadMax": 15,
       "FCreacion": "2019-10-03",
